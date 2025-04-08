@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/Design_Thinking/train
+val: /content/drive/MyDrive/Design_Thinking/valid
+
+nc: 1
+name: ['Drone']
